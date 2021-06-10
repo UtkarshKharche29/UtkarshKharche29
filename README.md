@@ -19,10 +19,10 @@ I'm Utkarsh Kharche from Mumbai, India. I'm pursuing BE in Computer Engineering.
  <p align="center">
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaayperez&" alt="jaayperez" /><br>
-
+ <p align="center">
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UKROCKZ&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UKROCKZ&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+ </p>
  </p>  
 
