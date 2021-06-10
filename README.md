@@ -5,7 +5,7 @@ I'm Utkarsh Kharche from Mumbai, India. I'm pursuing BE in Computer Engineering.
 ## Skills and Experience
 * ☕ Java (Core+Advance)
 * 🐍 Python
-* 💻 HTML,CSS,JS,Bootstrap
+* 💻 HTML,CSS,JS,Bootstrap,PHP
 
 ## Found something of your interest 🔎 ? Ping me here:
 
