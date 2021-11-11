@@ -14,6 +14,8 @@ I'm Utkarsh Kharche from Mumbai, India. I'm pursuing BE in Computer Engineering.
 
 <br />
 
+![dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+
 
 <h2>🏆 My profile stats:</h2>
 
