@@ -2,6 +2,8 @@
 ### Full Stack Web Developer | Java Developer | ML Enthusiast | LGM SOC'21 | Source Code:heartpulse:
 I'm Utkarsh Kharche from Mumbai, India. I'm pursuing BE in Computer Engineering. I like Singing, Playing Games, Playing Soccer, Reading Books, etc.
 
+[![Utkarsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=UtkarshKharche29&theme=xcode)](https://git.io/UtkarshKharche29)
+
 ## Technologies and Experience
 * ☕ Java (Core+Advance)
 * 🐍 Python
