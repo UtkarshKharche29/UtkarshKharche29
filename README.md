@@ -31,7 +31,7 @@ I'm Utkarsh Kharche from Mumbai, India. I'm pursuing BE in Computer Engineering.
 
   <!-- | --> 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshKharche29&layout=compact&theme=radical&height=400)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshKharche29&layout=compact&theme=radical&height=100)](https://github.com/anuraghazra/github-readme-stats)
  
  
  </p>  
