@@ -1,4 +1,4 @@
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
 # Hello <img src="https://github.com/UKROCKZ/UKROCKZ/blob/main/Resources/wave.gif" width="30px"> I'm Utkarsh Kharche
 ### Full Stack Web Developer | Java Developer | ML Enthusiast | LGM SOC'21 | Source Code:heartpulse:
