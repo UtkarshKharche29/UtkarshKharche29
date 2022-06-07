@@ -1,6 +1,6 @@
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="300">
 
-# Hello <img src="https://github.com/UKROCKZ/UKROCKZ/blob/main/Resources/wave.gif" width="30px"> I'm Utkarsh Kharche
+# Hello <img src="https://github.com/UKROCKZ/UKROCKZ/blob/main/Resources/wave.gif" width="20px"> I'm Utkarsh Kharche
 ### Full Stack Web Developer | Python & Java Developer | ML Enthusiast | LGM SOC'21 | Source Code:heartpulse:
 I'm Utkarsh Kharche from Mumbai, India. I'm pursuing BE in Computer Engineering. I like Singing, Playing Games, Playing Soccer, Reading Books, etc.
 
