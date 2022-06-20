@@ -38,5 +38,5 @@ I'm Utkarsh Kharche from Mumbai, India. I'm pursuing BE in Computer Engineering.
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/UtkarshKharche29"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/Utkarsh29"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
