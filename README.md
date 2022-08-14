@@ -13,6 +13,9 @@ I'm Utkarsh Kharche from Mumbai, India. I'm pursuing BE in Computer Engineering.
 
 ![dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
+## Here is a random joke that'll make you laugh! 😂
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## Found something of your interest 🔎 ? Ping me here:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/UtkarshKharche29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/utkarsh-kharche-a229b2175/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/utkarsh.kharche.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/UtkarshKharche2)  
