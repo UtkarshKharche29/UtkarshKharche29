@@ -5,10 +5,9 @@
 I'm Utkarsh Kharche from Mumbai, India. I'm pursuing BE in Computer Engineering. I like Singing, Playing Games, Playing Soccer, Reading Books, etc.
 
 ## Technologies and Experience
-* ☕ Java (Core+Advance)
-* 🐍 Python
+* 🐍 Python (Core+Advance)
 * 💻 HTML,CSS,JS,Bootstrap,PHP
-* 👨‍💻 Machine Learning, Artificial intelligence, Cloud Computing
+* 👨‍💻 Data Science, Machine Learning, Artificial intelligence, Cloud Computing
 
 
 ![dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
