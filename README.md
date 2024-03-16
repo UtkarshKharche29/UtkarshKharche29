@@ -1,13 +1,13 @@
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="300">
 
 # Hello <img src="https://github.com/UKROCKZ/UKROCKZ/blob/main/Resources/wave.gif" width="50" height="50"> I'm Utkarsh Kharche 
-### Full Stack Web Developer | Python & Java Developer | ML Enthusiast | LGM SOC'21 | Source Code:heartpulse:
-I'm Utkarsh Kharche from Mumbai, India. I'm pursuing BE in Computer Engineering. I like Singing, Playing Games, Playing Soccer, Reading Books, etc.
+### Data Scientist/Analyst | Python Full Stack Developer | TCSer | Source Code:heartpulse:
+I'm Utkarsh Kharche from Mumbai, India. I am Currently working in TCS. I've Completed my BE in Computer Engineering. I like Singing, Playing Games, Playing Soccer, Reading Books, etc.
 
 ## Technologies and Experience
 * 🐍 Python (Core+Advance)
-* 💻 HTML,CSS,JS,Bootstrap,PHP
-* 👨‍💻 Data Science, Machine Learning, Artificial intelligence, Cloud Computing
+* 💻 Power Bi, Tableau, Looker, Alyterx, Snowflake,etc. 
+* 👨‍💻 Data Science, Machine Learning, Artificial intelligence, Cloud Computing(Azure, AWS, GCP)
 
 
 ![dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
