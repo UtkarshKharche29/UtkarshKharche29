@@ -1,7 +1,7 @@
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="300">
 
 # Hello <img src="https://github.com/UKROCKZ/UKROCKZ/blob/main/Resources/wave.gif" width="50" height="50"> I'm Utkarsh Kharche 
-### Data Scientist/Analyst | Python Full Stack Developer | TCSer | Source Code:heartpulse:
+### Data Scientist/Analyst | Python Full Stack Developer | TCSer | Source Code ❤️
 I'm Utkarsh Kharche from Mumbai, India. I am Currently working in TCS. I've Completed my BE in Computer Engineering. I like Singing, Playing Games, Playing Soccer, Reading Books, etc.
 
 ## Technologies and Experience
